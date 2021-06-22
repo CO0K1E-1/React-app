@@ -1,0 +1,116 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Gilroy;
+}
+
+
+.main {
+    display: flex;
+    justify-content: center;
+    font-family: Gilroy;
+    font-size: 250px;
+    color: orange;
+    margin-top: 50px;
+    padding-left: 50px;
+    font-weight: 520;
+}
+
+.b1 {
+    font-size: 20px;
+    color: snow;
+    background-color: blue;
+    border-color: snow;
+    box-shadow: snow;
+    height: 60px;
+    width: 200px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+
+.b2 {
+    font-size: 20px;
+    color: snow;
+    background-color: orange;
+    border-color: snow;
+    box-shadow: snow;
+    height: 60px;
+    width: 200px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+.b3 {
+    font-size: 20px;
+    color: black;
+    background-color: snow;
+    border-color: snow;
+    box-shadow: snow;
+    height: 60px;
+    width: 200px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+
+.buttom {
+display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-family: Gilroy;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 250px;
+    margin-left: 498px;
+    font-family: Gilroy;
+}
+
+
+.h1 {
+    display: flex;
+    padding-top: 10px;
+    font-size: 25px;
+    color: blue;
+}
+
+.h2 {
+    padding-left: 30px;
+}
+
+.h3 {
+    padding-left: 30px;
+}
+
+.h4 {
+    padding-left: 30px;
+}
+
+.f1 {
+    display: flex;
+    color: gray;
+    padding-left: 50px;
+    padding-top: 5px;
+
+}
+
+.f2 {
+    padding-left: 30px;
+}
+
+.f3 {
+    padding-left: 30px;
+}
+
+.f4 {
+    padding-left: 30px;
+}
+
+.f5 {
+    color: gray;
+    padding-left: 250px;
+    padding-top: 5px;
+}
+
+
+
